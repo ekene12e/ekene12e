@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ekeneezema, a pharmacist who lives on the computer keyboard
+- 👀 I’m interested in front end dev
+- 🌱 I’m currently learning coding through alx software engineering program
+- 📫 Reach me on twitter @ekenestan07 or mail me: ekenestanekeson@gmail.com
