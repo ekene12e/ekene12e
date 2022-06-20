@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekeneezema, a pharmacist who lives on the computer keyboard
-- 👀 I’m interested in front end dev
-- 🌱 I’m currently learning coding through alx software engineering program
+- 👋 Hi, I’m @ekeneezema
+- 👀 I’ve passion for web development. Currently focused on mastering front end dev: Html5, css and Js frameworks and libraries. Special interest in React.
+- 🌱currently at alx software engineering program
 - 📫 Reach me on twitter @ekenestan07 or mail me: ekenestanekeson@gmail.com
