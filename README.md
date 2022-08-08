@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ekeneezema
 - 👀 I’ve passion for web development. Currently focused on mastering front end dev: Html5, css and Js frameworks and libraries. Special interest in React.
 - 🌱currently at alx software engineering program
-- 📫 Reach me on twitter @ekenestan07 or mail me: ekenestanekeson@gmail.com
+- 📫 Reach me on twitter [@ekenestan07](https://twitter.com/ekenestan07) or mail me: ekenestanekeson@gmail.com
